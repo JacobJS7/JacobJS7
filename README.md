@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Arduino project**
 
-- 🌱 I’m currently learning **Adobe Ilustrator**
+- 🌱 I’m currently learning **Adobe Illustrator**
 
-- 👨‍💻 All of my programming projects available at [https://github.com/JacobJS7](https://github.com/JacobJS7)
+- 👨‍💻 All of my programming projects available at [https://github.com/JacobJS7](https://github.com/JacobJS7?tab=repositories)
 
 - 📸 All of my photography work available at [https://500px.com/p/jacobs_21](https://500px.com/p/jacobs_21)
 
@@ -74,7 +74,7 @@ Explore my photography portfolio to see the world through my lens. From landscap
 
 <p align="left">
 <a href="https://instagram.com/jacobs.js21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jacobs.js21" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@jacobsjs9658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jacobsjs9658" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@jacobsjs9658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jacobsjs9658" height="30" width="40" /></a>
 </p>
 
 ## 🙏 Thanks for visiting!

@@ -4,7 +4,7 @@
 
 - 🦅 English level **B2/C1**
 
-- 🔭 I’m currently working on **Arduino project**
+- 🔭 I’m currently working on **STM32 project**
 
 - 🌱 I’m currently learning **Adobe Illustrator**
 
@@ -14,11 +14,11 @@
 
 ## 🚀 About Me
 
-I thrive on creating captivating and user-friendly web experiences. As a frontend developer, I specialize in designing UI concepts and turning them into responsive and dynamic websites.
+I thrive on creating user-friendly web experiences. As a frontend developer and UI designer, I specialize in designing concepts and turning them into responsive and dynamic websites.
 
 In the realm of electronics, I'm fascinated by the world of circuits and microcontrollers. I enjoy programming microcontrollers, especially with Arduino or ESP, to bring digital and physical projects to life.
 
-Outside the world of coding, I'm an enthusiastic photographer taking my first steps in portraiture and wedding photography. I love capturing moments and telling stories through my lens. Feel free to check out my photography work in the dedicated section below.
+Outside the world of coding, at my very core, I’m just a young buck on a journey, unceasingly refining and establishing myself as an artist, an adventurer, and a young man. I'm an enthusiastic photographer taking my first steps in documentary, portraiture and wedding photography. I love capturing moments and telling stories through my lens. Feel free to check out my photography work in the dedicated section below. 
 
 ## 💻 Languages and Tools:
 

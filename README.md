@@ -65,7 +65,13 @@ Outside the world of coding, at my very core, I’m just a young buck on a journ
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> 
   </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="xd" width="40" height="40"/> </a> </p>
-
+  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> </p>
+  </a> <a href="https://circuitpython.org" target="_blank" rel="noreferrer"> 
+    <img src="https://en.wikipedia.org/wiki/CircuitPython#/media/File:Adafruit_blinka_angles-left.svg" alt="xd" width="40" height="40"/> </a> </p>
+  </a> <a href="https://micropython.org" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" alt="xd" width="40" height="40"/> </a> </p>
+    
 ## 📷 Photography Portfolio
 
 Explore my photography portfolio to see the world through my lens. From landscapes to portraits, each photo has a story to tell. [[Link to Photography Portfolio]](https://500px.com/p/jacobs_21)
